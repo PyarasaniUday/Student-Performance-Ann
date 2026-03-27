@@ -85,3 +85,21 @@ Example:
 - 0.20 → FAIL  
 
 ---
+
+## 🚀 How to Run This Project
+
+Follow these steps to run the project on your system:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/PyarasaniUday/student-performance-ann.git
+cd student-performance-ann
+
+install required libraries
+cd pip install -r requirements.txt
+
+Run the application
+cd streamlit run app.py
+
+
+Open in browser
